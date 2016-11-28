@@ -17,7 +17,7 @@ public class AutoDeGasolina extends Automovil {
 
     @Override
     public void mostrarCaracteristicas() {
-        System.out.println("Caracteristicas auto electrico "+super.toString());
+        System.out.println("Caracteristicas auto a gasolina "+super.toString());
     }
     
 }
